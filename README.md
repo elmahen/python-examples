@@ -1,3 +1,3 @@
 # python-examples
 erste python script Beispiel
-halloea
+ein paar einfache python scripts zum einen Eindruck zu gewinnen
